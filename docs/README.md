@@ -4,9 +4,9 @@ First, I familiarized myself with what WordPress was via https://kinsta.com/know
 
 Upon realizing that WordPress was more unfamiliar to me than I initially anticipated, as well as in the face of time constraints, I decided to switch to PiHole. An independent study of WordPress will at some point still be conducted, because it seems like a good thing to know. 
 
-Walkthrough at https://pimylifeup.com/pi-hole-docker/ helped in setup/installation, as well as general background on PiHole.
+Walkthrough at [pimylifeup](https://pimylifeup.com/pi-hole-docker/) helped in setup/installation, as well as general background on PiHole.
 
-https://github.com/pi-hole/docker-pi-hole also used as reference
+[docker pi-hole Github repo](https://github.com/pi-hole/docker-pi-hole) also used as reference
 
 ## Installing Docker
 
