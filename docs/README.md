@@ -31,7 +31,7 @@ mkdir ~/pihole
 cd ~/pihole # move into directory
 ```
 
-### Write the Docker-Compose Config File
+### Write the docker-compose.yml File
 
 Define the Pi-Hole docker container and the options we want passed to the container
 
