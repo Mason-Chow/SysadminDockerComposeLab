@@ -99,4 +99,4 @@ if port conflict, change port away:
 http://IPADDRESS:PORT/admin
 ```
 
-![Pihole Web Interface](images/Working.png "Pi-hole Web Interface")
+![Pihole Web Interface](docs/assets/Working.png "Pi-hole Web Interface")
